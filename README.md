@@ -1,2 +1,2 @@
-# Apeperia
-Página estática desenvolvida utilizando metodologia mobile first e conhecendo o EMMET
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
